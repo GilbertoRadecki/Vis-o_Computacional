@@ -1,4 +1,4 @@
-# Visao_Computacional
+# 02.Visao_Computacional
 ## Utilização de técnicas de Inteligência Artificial para classificação de imagens de células afetadas ou não por Leucemia.
 
 Usando um notebook HP com processador i5 e 8GB de RAM, consegui implementar uma rede neural para classificação de células saudáveis ou com Leucemia.
