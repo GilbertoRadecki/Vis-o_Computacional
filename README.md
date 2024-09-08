@@ -1,4 +1,4 @@
-# 02.Visao_Computacional
+# 02.Visao Computacional
 ## Utilização de técnicas de Inteligência Artificial para classificação de imagens de células afetadas ou não por Leucemia.
 
 <img src="cancer.jpg">
