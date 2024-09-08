@@ -3,7 +3,9 @@
 
 <img src="cancer.jpg">
 
-Usando um notebook HP com processador i5 e 8GB de RAM, configurei uma rede neural para classificação de imagens de células saudáveis ou com Leucemia.
+Resumo:
+Usando um notebook HP com processador i5 e 8GB de RAM, configurei uma rede neural para classificação de imagens de células saudáveis ou com Leucemia, obtendo 96% de acurácia.
+________________________________________
 
 A maior parte dos dados trafegados na internet não são estruturados. Um exemplo desse tipo de dado são as imagens.
 
